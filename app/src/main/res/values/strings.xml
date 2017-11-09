@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Connect</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="username_placeholder">Username</string>
+    <string name="email_placeholder">example@gmail.com</string>
+    <string name="user_image_description">User image</string>
+</resources>

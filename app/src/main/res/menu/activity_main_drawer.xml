@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/ic_menu_history"
+            android:title="History" />
+        <item
+            android:id="@+id/nav_quit"
+            android:icon="@drawable/ic_menu_quit"
+            android:title="Quit" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_menu_logout"
+            android:title="Logout" />
+    </group>
+
+    <item android:title="Device">
+        <menu>
+            <item
+                android:id="@+id/nav_remote"
+                android:icon="@drawable/ic_menu_remote"
+                android:title="Remote" />
+            <item
+                android:id="@+id/nav_settings"
+                android:icon="@drawable/ic_menu_settings"
+                android:title="Settings" />
+        </menu>
+    </item>
+
+</menu>
