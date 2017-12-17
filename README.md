@@ -1,1 +1,1 @@
-Re-imagine app layout for whitefield following Material guidelines
+Re-imagined app layout for whitefield following Material guidelines
